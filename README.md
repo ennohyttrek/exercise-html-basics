@@ -1,2 +1,2 @@
 # exercise-html-basics
- A short class ob HTML basics aimed at WordPress theme development
+ A short class on HTML basics aimed at WordPress theme development
